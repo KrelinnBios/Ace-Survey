@@ -16,12 +16,16 @@
 - 本地使用：直接用浏览器打开 `index.html`
 - 线上部署：将仓库内容部署到任意静态网站托管（Pages / Cloudflare Pages / Vercel 等）
 
-## 许可（双许可）
+## 许可协议
 
-本项目采用“代码”和“文档/站点内容”分离授权：
+本仓库使用双许可：
 
-- Code：MIT License（见 [LICENSE](./LICENSE)）
-- Documentation & Website Content：Creative Commons Attribution 4.0 International（CC BY 4.0，见 [LICENSE-CONTENT.md](./LICENSE-CONTENT.md)）
+- 代码：MIT License（见 [LICENSE](./LICENSE)）
+- 文档及网站内容：知识共享署名 4.0 国际许可协议（CC BY 4.0，参见 [LICENSE-CONTENT.md](./LICENSE-CONTENT.md)）
+
+其中：
+
+- “代码” 指 HTML/CSS/JS 等实现代码与工程性文件。
+- “文档及网站内容” 指页面中的文字内容、图表与说明性材料。
 
 如果仓库中包含第三方资源（如字体、外部库等），其许可证以原作者声明为准。
-
