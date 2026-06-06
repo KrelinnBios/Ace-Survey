@@ -14,7 +14,7 @@
 ## 使用
 
 - 本地使用：直接用浏览器打开 `index.html`
-- 线上部署：将仓库内容部署到任意静态网站托管（Pages / Cloudflare Pages / Vercel 等）
+- 线上部署：将仓库内容部署到任意静态网站托管平台（GitHub Pages / Cloudflare Pages / Vercel / Netlify 等）
 
 ## 许可协议
 
