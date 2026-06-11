@@ -1,4 +1,6 @@
-# Ace Survey（无性恋社群基本信息调查问卷）
+# Ace Survey
+
+面向无性恋社群的基本信息调查问卷。
 
 在线访问：<https://ace-survey.pages.dev/>
 
@@ -42,4 +44,4 @@ Ace Survey 是一个纯前端、单文件的问卷页面，用于填写和整理
 
 ## 反馈与贡献
 
-欢迎通过 GitHub Issue 提交错别字、排版兼容问题、问卷表述建议或功能改进建议。
+欢迎通过 [GitHub Issue](https://github.com/KrelinnBios/Ace-Survey/issues) 提交错别字、排版兼容问题、问卷表述建议或功能改进建议。
